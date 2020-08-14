@@ -26,7 +26,7 @@
 
 ## Data Preparation for Modelling
 
-* Only the tweet and its label were kept fromt the original dataset - the remaining features were removed as they provided no relevant information to the task 
+* Only the tweet and its label were kept from the original dataset - the remaining features were removed as they provided no relevant information to the task 
 
 * Count vectorisation and term frequency–inverse document frequency (TFIDF) were implemented to transform text data to numerical data
 
