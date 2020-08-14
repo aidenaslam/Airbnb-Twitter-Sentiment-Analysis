@@ -55,3 +55,5 @@
 * Whilst the aim of this project was to practice using the Twitter API and processing unstructured data, each tweet was classified as neutral, negative or positive based on a strict criteria on polarity. Future work would involve using a more sophisticated method to label each tweet. 
 
 * Furthermore, more exploratory data analysis would be useful to understand the tweets in more detail. However, by scaling up the amount of data, the results from this project can very easily be applied to help improve Airbnb's service offfering. 
+
+* The focus of this project was not on the modelling - thus in the future, differenty types of models would be considered, including clustering and neural networks. Furthermore, a grid search or randomised search would be used to optimise models. 
