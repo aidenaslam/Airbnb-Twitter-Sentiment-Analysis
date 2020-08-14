@@ -6,26 +6,33 @@
  
  ## Collecting Data
 
-*
+* 2,499 tweets with the hashtag *airbnb* were collected using the Twitter API and saved as JSON
+
+## Data Processing
+
+* Sentiments were aplied for each tweet using the Python library TextBlob
+
+* Tweets with polarity = 0 were classified as neutral, tweets with polarity > 0 were classified as positive and tweets < 0 were classified as negative
 
 ## Exploratory Data Analysis
 
-* 
-<img src="" width="350" height="200" />
+* The heatmap of the number of tweets indicates overall an even number of tweets across each day however, there was a spike during 11 and 12 August
 
-## Data Processing
+
+
+## Data Preparation for Modelling
 
 * 
 
 ## Modelling
 
 * 
-<img src="" width="450" height="400" />
+
 
 ## Evaluation
 
 * 
-<img src="" width="400" height="200" />
+
 
 ## Limitations and Future Work
 
