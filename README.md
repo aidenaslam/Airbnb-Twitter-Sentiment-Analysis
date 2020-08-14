@@ -56,4 +56,4 @@
 
 * Furthermore, more exploratory data analysis would be useful to understand the tweets in more detail. However, by scaling up the amount of data, the results from this project can very easily be applied to help improve Airbnb's service offfering. 
 
-* The focus of this project was not on the modelling - thus in the future, differenty types of models would be considered, including clustering and neural networks. Furthermore, a grid search or randomised search would be used to optimise models. 
+* The focus of this project was not on the modelling - thus in the future, different types of models would be considered, including clustering and neural networks. Furthermore, a grid search or randomised search would be used to optimise models. 
